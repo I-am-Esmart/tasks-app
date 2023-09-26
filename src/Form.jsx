@@ -27,7 +27,7 @@ const Form = () => {
   }
   return (
     <form onSubmit={handleSubmit}>
-      <h4>task bud</h4>
+      <h4>My todo list</h4>
       <div className="form-control">
         <input
           type="text "
